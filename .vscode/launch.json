@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainMenu",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu",
+            "projectName": "ElaboratoIS_d816c3c"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu",
+            "projectName": "ElaboratoIS_946c1929"
+        },
+        {
+            "type": "java",
+            "name": "DBSet",
+            "request": "launch",
+            "mainClass": "DBRecovery.DBSet",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "prove",
+            "request": "launch",
+            "mainClass": "Boundary.prove",
+            "projectName": "ElaboratoIS_d816c3c"
+        },
+        {
+            "type": "java",
+            "name": "DBSet",
+            "request": "launch",
+            "mainClass": "DBRecovery.DBSet",
+            "projectName": "ElaboratoIS_d816c3c"
+        },
+        {
+            "type": "java",
+            "name": "DBSet",
+            "request": "launch",
+            "mainClass": "DBRecovery.DBSet",
+            "projectName": "ElaboratoIS_946c1929"
+        },
+        {
+            "type": "java",
+            "name": "prove",
+            "request": "launch",
+            "mainClass": "Boundary.prove",
+            "projectName": "ElaboratoIS_946c1929"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu2",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu2",
+            "projectName": "ElaboratoIS_d816c3c"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu2",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu2",
+            "projectName": "ElaboratoIS_946c1929"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu2",
+            "request": "launch",
+            "mainClass": "Boundary.MainMenu2",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "mainmenu",
+            "request": "launch",
+            "mainClass": "Boundary.mainmenu",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "provamainDAO",
+            "request": "launch",
+            "mainClass": "Boundary.provamainDAO",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "provamainb",
+            "request": "launch",
+            "mainClass": "Boundary.provamainb",
+            "projectName": "Team11_e89641ca"
+        },
+        {
+            "type": "java",
+            "name": "prove",
+            "request": "launch",
+            "mainClass": "Boundary.prove",
+            "projectName": "Team11_e89641ca"
+        }
+    ]
+}

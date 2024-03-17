@@ -1,0 +1,69 @@
+Date : 2023-06-10 16:01:55
+Directory : c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src
+Total : 34 files,  3001 codes, 56 comments, 1406 blanks, all 4463 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         31 |      2,906 |         56 |      1,372 |      4,334 |
+| SQL      |          3 |         95 |          0 |         34 |        129 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                   | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                      |         34 |      3,001 |         56 |      1,406 |      4,463 |
+| Boundary                                                                                               |          5 |        898 |          2 |        431 |      1,331 |
+| Control                                                                                                |          1 |        243 |          0 |        125 |        368 |
+| DAO                                                                                                    |          6 |        633 |          0 |        274 |        907 |
+| DBRecovery                                                                                             |          4 |        232 |          1 |         81 |        314 |
+| Entity                                                                                                 |          8 |        317 |         29 |        138 |        484 |
+| Utility                                                                                                |          1 |         44 |          0 |         21 |         65 |
+| exception                                                                                              |          5 |         66 |          0 |         30 |         96 |
+| test                                                                                                   |          4 |        568 |         24 |        306 |        898 |
+| test\BInserzionistaTest                                                                                |          1 |        225 |          9 |         98 |        332 |
+| test\BUtenteTest                                                                                       |          3 |        343 |         15 |        208 |        566 |
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                               | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Boundary\BInserzionista.java                             | Java     |        545 |          2 |        266 |        813 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Boundary\BTempo.java                                     | Java     |          3 |          0 |          3 |          6 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Boundary\BUtente.java                                    | Java     |        248 |          0 |         95 |        343 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Boundary\BUtenteRegistrato.java                          | Java     |          3 |          0 |          7 |         10 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Boundary\MainMenu.java                                   | Java     |         99 |          0 |         60 |        159 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Control\GestorePiattaformaAnnunci.java                   | Java     |        243 |          0 |        125 |        368 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\AnnuncioDAO.java                                     | Java     |        165 |          0 |         63 |        228 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\ContattoDAO.java                                     | Java     |        160 |          0 |         78 |        238 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\DBManager.java                                       | Java     |         33 |          0 |         14 |         47 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\FotografiaDAO.java                                   | Java     |        123 |          0 |         48 |        171 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\InserzionistaDAO.java                                | Java     |         67 |          0 |         38 |        105 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DAO\UtenteRegistratoDAO.java                             | Java     |         85 |          0 |         33 |        118 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DBRecovery\DBSet.java                                    | Java     |        137 |          1 |         47 |        185 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DBRecovery\DROP.sql                                      | SQL      |         11 |          0 |          2 |         13 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DBRecovery\INSERT.sql                                    | SQL      |          9 |          0 |          9 |         18 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\DBRecovery\LISTATO.sql                                   | SQL      |         75 |          0 |         23 |         98 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Annuncio.java                                     | Java     |        125 |         13 |         49 |        187 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Contatto.java                                     | Java     |         46 |          1 |         16 |         63 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Fotografia.java                                   | Java     |         31 |          4 |         15 |         50 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Inserzionista.java                                | Java     |         45 |         11 |         22 |         78 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\MailingList.java                                  | Java     |         22 |          0 |         13 |         35 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Stato.java                                        | Java     |          5 |          0 |          3 |          8 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\Tipologia.java                                    | Java     |          5 |          0 |          2 |          7 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Entity\UtenteRegistrato.java                             | Java     |         38 |          0 |         18 |         56 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\Utility\DatiInserzionistaAnnuncio.java                   | Java     |         44 |          0 |         21 |         65 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\exception\AuthenticationException.java                   | Java     |         15 |          0 |          7 |         22 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\exception\DAOException.java                              | Java     |         15 |          0 |          9 |         24 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\exception\DBConnectionException.java                     | Java     |         10 |          0 |          5 |         15 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\exception\OperationException.java                        | Java     |         13 |          0 |          3 |         16 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\exception\RegistrationException.java                     | Java     |         13 |          0 |          6 |         19 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\test\BInserzionistaTest\TestAggiornaEliminaAnnuncio.java | Java     |        225 |          9 |         98 |        332 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\test\BUtenteTest\TestCheckPresenzaContatto.java          | Java     |         68 |          5 |         44 |        117 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\test\BUtenteTest\TestRegistrazioneUtente.java            | Java     |         79 |          5 |         54 |        138 |
+| c:\Users\Luigi Fienga\Desktop\ElaboratoIS\src\test\BUtenteTest\TestRicercaAnnunci.java                 | Java     |        196 |          5 |        110 |        311 |
+| Total                                                                                                  |          |      3,001 |         56 |      1,406 |      4,463 |
++--------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
